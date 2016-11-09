@@ -1,7 +1,7 @@
 # 2016 G0V @ NYC Hackathon Badge
 
 Badge Template Image
-![alt text](images/badge.jpg "Badge Template Image")
+![alt text](public/images/badge.jpg "Badge Template Image")
 
 ## To set up
 
